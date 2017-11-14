@@ -13,7 +13,7 @@
         {
             "name":     "Handy Commerce",
             "homepage": "http://handycommerce.co/"
-        },
+        }
     ],
     "require": {
         "payum/core": "^1.3"
